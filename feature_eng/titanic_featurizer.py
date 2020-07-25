@@ -16,6 +16,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.externals import joblib
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
+from sklearn.externals import joblib
 from sklearn.preprocessing import Binarizer, StandardScaler, OneHotEncoder, KBinsDiscretizer, OrdinalEncoder
 
 '''
